@@ -1,3 +1,8 @@
 
 # Test_Case
-Test Case on Aliexpress website's register/sign up module
+Test Case on BDshop website's Sign in/sign up module
+Test plan
+Test cases
+Mind Map
+Bug report
+Test metrics
